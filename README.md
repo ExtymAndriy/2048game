@@ -1,12 +1,12 @@
 🎮 2048 Game
-The classic 2048 game , implemented in JavaScript.
-The goal of the game is to combine identical numbers to get a tile of 2048 (or even more 😏).
+  The classic 2048 game , implemented in JavaScript.
+  The goal of the game is to combine identical numbers to get a tile of 2048 (or even more 😏).
 
 🔍 Preview
-
+  https://extymandriy.github.io/js_2048_game/
 
 🎨 Design link
-
+  Design not provided
 
 🛠 Technologies used:
   HTML5,
